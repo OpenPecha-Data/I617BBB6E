@@ -1,0 +1,39 @@
+id: I617BBB6E
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T22:54:21.492586'
+last_modified: '2022-06-18T22:54:21.492632'
+parser: null
+source_metadata:
+  title: The Record of Teachings received of Zhu chen Tshul khrims rin chen (1697–1774),
+    part II
+  author: zhu chen tshul khrims rin chen/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2020-05-16); under revision, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre; This text was published by Sachen International.
+    (src)
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:dbyig gnyen rdo rje/, Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/1778
+  bases:
+    63bc:
+      title: The Record of Teachings received of Zhu chen Tshul khrims rin chen (1697–1774),
+        part II
+      order: 1
+      base_file: 63bc.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
